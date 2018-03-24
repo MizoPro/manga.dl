@@ -1,0 +1,27 @@
+{
+  "name": "manga.dl",
+  "version": "1.0.0",
+  "description": "Manga Downloader for manga.ae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizopro/manga-ae-js.git"
+  },
+  "keywords": [
+    "manga",
+    "dl",
+    "downloader",
+    "ae",
+    "arabic",
+    "chapter"
+  ],
+  "author": "MizoPro <hmzblhdjahmd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mizopro/manga-ae-js/issues"
+  },
+  "homepage": "https://github.com/mizopro/manga-ae-js#readme"
+}
