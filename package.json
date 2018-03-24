@@ -1,27 +1,29 @@
 {
   "name": "manga.dl",
-  "version": "1.0.0",
-  "description": "Manga Downloader for manga.ae",
+  "version": "0.1.0",
+  "description": "Manga Downloader Client for popular sites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mizopro/manga-ae-js.git"
+    "url": "git+https://github.com/mizopro/manga.dl.git"
   },
   "keywords": [
     "manga",
     "dl",
     "downloader",
-    "ae",
-    "arabic",
     "chapter"
   ],
   "author": "MizoPro <hmzblhdjahmd@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mizopro/manga-ae-js/issues"
+    "url": "https://github.com/mizopro/manga.dl/issues"
   },
-  "homepage": "https://github.com/mizopro/manga-ae-js#readme"
+  "homepage": "https://github.com/mizopro/manga.dl#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1"
+  }
 }
