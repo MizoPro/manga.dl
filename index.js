@@ -7,3 +7,9 @@
  */
 
 const cheerio = require("cheerio");
+
+class Downloader {
+
+}
+
+module.exports = Downloader;
